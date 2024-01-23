@@ -357,7 +357,8 @@ Header Style
   width: fit-content;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 576px
+) {
   .header-area .main-nav .logo .logo-text {
     display: none;
   }
@@ -1111,7 +1112,8 @@ Banner Style
   color: #00bdfe;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 576px
+) {
   .main-banner h3 {
     display: none;
   }
@@ -1280,7 +1282,8 @@ section.popular-categories {
   padding: 120px 100px;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 576px
+) {
   section.popular-categories {
     background-image: none;
   }
@@ -1613,7 +1616,8 @@ section.closed-contests {
   margin-top: 20px;
 }
 
-@media (min-width: 375px) {
+@media (min-width: 576px
+) {
   .closed-contests .border-button {
     margin-top: 0px;
     padding: 1.5rem !important;
@@ -1717,7 +1721,8 @@ footer p a {
   font-weight: 500;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 576px
+) {
   footer .address {
     display: flex;
     flex-direction: column;
@@ -1757,7 +1762,8 @@ page heading
   display: none;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 576px
+) {
   .page-heading h4 {
     display: block;
     color: #fff;
@@ -2384,7 +2390,8 @@ Categories Page
 --------------------------------------------- 
 */
 
-@media (max-width: 375px) {
+@media (max-width: 576px
+) {
   .card-categories {
     display: flex;
     justify-content: center;
