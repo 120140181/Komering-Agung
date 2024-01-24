@@ -1027,7 +1027,7 @@ Banner Style
 
 .main-banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(../images/WLurah.jpg);
+    url(../images/carousel/WLurah.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
