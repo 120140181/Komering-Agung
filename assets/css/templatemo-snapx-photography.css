@@ -228,10 +228,6 @@ Team
     background: var(--secondary)
 }
 
-.kaling {
-  
-}
-
 @media (max-width: 567px) {
   .kalingz h4 {
     display: none;
